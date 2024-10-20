@@ -23,7 +23,7 @@ function draw() {
 
 }
 
-function mouseClicked() {
+function touchStarted() {
     x = random([2, 3, 4, 5, 6, 7, 8, 9]);
     y = random([2, 3, 4, 5, 6, 7, 8, 9]);
 }
